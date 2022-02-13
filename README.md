@@ -1,6 +1,6 @@
-# Frontend Mentor - NFT QR Code Component
+# Frontend Mentor - QR Code Component
 
-This is a solution to the [NFT QR Code Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is a solution to the [QR Code Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
