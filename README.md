@@ -6,7 +6,7 @@ This is a solution to the [QR Code Component Challenge on Frontend Mentor](https
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
@@ -19,23 +19,26 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
-<img src="./img/qr-code-component-desktop.png" alt="qr-desktop">
-<img src="./img/qr-code-component-mobile.png" alt="qr-mobile">
+#### Desktop View
+<img src="./img/qr-code-component-desktop.png" alt="Desktop View">
+
+#### Mobile View 
+<img src="./img/qr-code-component-mobile.png" alt="Mobile View">
 
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/thaykrgl)
-- Live Site URL: [Github Pages](https://thaykrgl.github.io/nft-preview-card-component/)
+- Live Site URL: [Github Pages](https://thaykrgl.github.io/qr-code-component/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Mobile-first workflow
+- Google Fonts
 
 ## Author
 
