@@ -20,6 +20,10 @@ body {
   margin-bottom: 5px;
 }
 
+.qr-image{
+  margin-top: 2vh;
+}
+
 .qr-image img {
   width: 90%;
   display: block;
